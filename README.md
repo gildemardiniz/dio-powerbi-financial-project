@@ -24,7 +24,7 @@ Projeto desenvolvido como parte do desafio da DIO para criação de um relatóri
 ## 🔗 Link para o relatório publicado
 
 ⚠️ Ainda não publicado no Power BI Service, pois não possuo acesso no momento.  
-📥 No entanto, o relatório `.pbix` pode ser baixado e visualizado localmente através do Power BI Desktop:
+📥 No entanto, o relatório `.pbix` pode ser baixado e visualizado localmente através do Power BI Desktop, ou pelo link do pdf: [ Clique Aqui ](https://github.com/gildemardiniz/dio-powerbi-financial-project/blob/main/desafio%20de%20projeto.pdf).
 
 ## 👩‍💻 Dados e Referência
 
